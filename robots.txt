@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /index.php
+Disallow: /application
+Disallow: /tpl
+Disallow: /tpl_admin
+Disallow: /admin
+Disallow: /index.php?g=admin
